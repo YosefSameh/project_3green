@@ -1,0 +1,1513 @@
+.a1{
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    width: 10%;
+    height: 5vh;
+    font-size: 250%;
+    padding-left: 12%;
+    position: absolute;
+    top: 11.5%;
+    width: 10%;
+    height: 5vh;
+    
+    
+    
+}
+.a2{
+    
+    text-decoration:none;
+    color: #14B789;
+    width: 10%;
+    height: 5vh;
+    font-weight: bold;
+    
+    position: absolute;
+    top: 27.5%;
+    left: 22.8%;
+    
+}
+.a3{
+    text-decoration:none;
+    color: white;
+    width: 10%;
+    height: 5vh;
+    font-weight: bold;
+    
+    position: absolute;
+    left: 28.8%; 
+    top: 27.5%;
+    
+    width: 4%;
+    height: 2vh;
+
+}
+.a4{
+    text-decoration:none;
+    color: white;
+    font-weight: bold;
+    position: absolute;
+    left: 35.4%;
+    top: 27.5%;
+     
+    width: 5.5%;
+    height: 2vh;
+}
+.a5{
+    text-decoration:none;
+    color: white;
+    font-weight: bold;
+    
+    position: absolute;
+    left: 43%; 
+    top: 27.5%;
+    
+
+    width: 5.5%;
+    height: 2vh;
+    
+}
+.a6{
+    text-decoration:none;
+    color: white;
+    font-weight: bold;
+    position: absolute; 
+    left: 50.5%; 
+    top: 27.5%;
+    
+    width: 5.5%;
+    height: 2vh;
+    
+}
+.a7{
+    text-decoration: none;
+    font-weight: bold;
+    width: 30%;
+    height: 3vh;
+    font-size: 160%;
+    color: #14B789;
+    padding-left: 2%;
+    
+    
+
+}
+.a8{
+    color:white;
+    text-decoration: none;
+    font-size: 150%;
+
+}
+.b2{
+background-color: #535da1;
+border-radius: 30px;
+width: 10%;
+height: 5vh;
+position: absolute;
+top: 68.3%;
+left: 7.5%;
+
+border-color: #535da1;
+}
+.b2:hover{
+background-color: #14B789;
+border: 0%;
+border-color: #14B789;
+box-shadow: 0 1rem 3rem rgba(0,0,0,.175);
+
+}
+
+
+.b1{
+    border-radius:25px;
+    background-color: #535da1;
+    
+    position: absolute;
+    top: 10%;
+    left: 99%;
+    border: 3.3px solid white;
+    width: 13%;
+    height: 4vh;
+    
+}
+button:hover{
+    background-color: white;
+    color: #14B789;
+    
+}
+.a3:hover{
+    color: #14B789;
+    border-bottom: 2px solid #14B789;
+
+}
+.a4:hover{
+    color: #14B789;
+    border-bottom: 2px solid #14B789;
+
+}
+.a5:hover{
+    color: #14B789;
+    border-bottom: 2px solid #14B789;
+
+}
+.a6:hover{ color: #14B789;
+    border-bottom: 2px solid #14B789;
+
+}
+
+
+.d1{
+    background: linear-gradient(  #535da1 50% ,#14B789 50%);
+    height: 69.1vh;
+    width: 100%;
+    position: relative;
+    
+}
+.d2{
+    width: 80%;
+    height: 10vh;
+    border-radius: 10px;
+    position: sticky;
+    top: 2%;
+    color: black;
+    
+    
+}
+
+    
+
+body{
+    height: 500vh;
+    width: 100%;
+}
+::selection{
+    background-color: #14B789;
+    color:white;
+}
+.im1{
+    position: absolute;
+    left: 7.5%;
+    top: 39.5%;
+    width: 7%;
+    height: 7vh;
+    border-radius: 50%;
+
+    
+}
+.h1{
+    background-color: white;
+    border-radius: 45px;
+    width: 19%;
+    font-size: 300%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;;
+    position: absolute;
+    top: 35%;
+    left: 15%;
+    text-align: center;
+
+
+}
+.h2{
+    background-color: white;
+    border-radius: 45px;
+    width: 43%;
+    height: 6vh;
+    font-size: 300%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;;
+    position: absolute;
+    top: 50%;
+    left: 7.5%;
+    text-align: center;
+    color: #14B789;
+}
+.d3{
+    background-color: white;
+    border-radius: 100%;
+    width: 450px;
+    height: 450px;
+    position: absolute;
+    top: 40%;
+    left: 63%;
+
+}
+.im2{
+    
+    position: absolute;
+    top: 40%;
+    left: 55.5%;
+    overflow: hidden;
+}
+.d4{
+    margin-top: 7.6%;
+    margin-left: 7.5%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    
+}
+.im3{
+    border-radius: 20px;
+    width: 45.1%;
+}
+.d5{
+    width: 40%;
+    height: 16vh;
+    background-color: #14B789;
+    border-radius: 15px;
+    position: relative;
+    left: 49.3%;
+    
+    bottom: 490px;
+}
+.p5{
+    color: white;
+    font-size: 350%;
+    position: absolute;
+    left: 35%;
+    top: 3%;
+    font-weight: bold;
+
+
+}
+.im4{
+    position: absolute;
+    border-radius: 50%;
+    width: 10%;
+    height: 12vh;
+    top: 84%;
+    left: 79%;
+}
+.p6{
+    font-size: 280%;
+    font-weight: bold;
+    position: absolute;
+    left:53.2%;
+    top: 96.5%;
+    width: 28%;
+
+}
+.p7{
+    font-size: 140%;
+    position: absolute;
+    left:53.2%;
+    top: 105%;
+    
+}
+.p8{
+    font-size: 140%;
+    position: absolute;
+    left:53.2%;
+    top: 112%;
+}
+.d6{
+    width: 100%;
+    height: 50vh;
+    background-color: rgba(128, 128, 128, 0.06);
+    border: solid 2px rgba(128, 128, 128, 0.06);
+    margin-top: 1.6%;
+    position: relative;
+    
+
+
+}
+.p9{
+    font-size: 450%;
+    font-weight: bold;
+    position: absolute;
+    top: 15%;
+    left: 50%;
+
+}
+.d6::after{
+    content: "";
+    width: 1px;
+    height: 28.6vh;
+    background-color: rgba(128, 128, 128, 0.189);
+    position: absolute;
+    left: 67.5%;
+    top: 25%;
+    color: red;
+    opacity: 0.6;
+    
+}
+.hr1{
+    opacity: 0.1;
+    position: absolute;
+    top: 48%;
+    left: 50%;
+    width: 35%;
+
+}
+.p10{
+    font-size:150%;
+    position: absolute;
+    top: 38%;
+    color: #14B789;
+    left: 50%;
+
+}
+
+.p11{
+    font-size: 450%;
+    font-weight: bold;
+    position: absolute;
+    top: 15%;
+    left: 70.8%;
+
+}
+.p12{
+    font-size:150%;
+    position: absolute;
+    top: 38%;
+    color: #14B789;
+    left: 70.8%;
+
+}
+.p13{
+    font-size: 450%;
+    font-weight: bold;
+    position: absolute;
+    top: 42%;
+    left: 50%;
+
+}
+.p14{
+    font-size:150%;
+    position: absolute;
+    top: 65%;
+    color: #14B789;
+    left: 50%;
+
+}
+.p15{
+    font-size: 450%;
+    font-weight: bold;
+    position: absolute;
+    top: 42%;
+    left: 70.8%;
+}
+.p16{
+    font-size:150%;
+    position: absolute;
+    top: 65%;
+    color: #14B789;
+    left: 70.8%;
+
+}
+.d7{
+    width: 35%;
+    height: 28.5vh;
+    border-radius: 20px;
+    border: 2px solid rgba(128, 128, 128, 0.21);
+    background-color:rgba(128, 128, 128, 0.06) ;
+    position: absolute;
+    left: 3.5%;
+    top: 26.2%;
+}
+.p17{
+    width: 100%;
+    height:5vh;
+
+    font-weight: bold;
+    font-size: 200%;
+    padding-left: 5%;
+    padding-top: 0%;
+}
+.hr2{
+    width: 100%;
+    opacity: 0.3;
+    position: absolute;
+    top: 23%;
+}
+.p18{
+color: #14B789;
+font-size: 180%;
+position: absolute;
+left: 5%;
+top: 22%;
+
+
+
+}
+.p18::after{
+    content: "";
+    width: 1px;
+    height: 22.5vh;
+    background-color: rgba(128, 128, 128, 0.189);
+    position: absolute;
+    left: 35%;
+    bottom: 0px;
+    top: -12px;
+    opacity: 0.6;
+    
+}
+.p19{
+    width: 95%;
+    height: 4vh;
+    color: #14B789;
+    font-size: 150%;
+    padding-left: 4.7%;
+    padding-top: 2%;
+    background-color: rgba(255, 255, 255, 0.517);
+    margin-top: 8%;
+}
+.p20{
+    font-size: 140%;
+    color: rgb(107, 106, 106);
+    position: absolute;
+    top: 39%;
+    left: 28%;
+}
+.p21{
+   
+    color: #14B789;
+    font-size: 150%;
+    padding-left: 4.7%;
+    
+
+    
+}
+.p22{
+    font-size: 140%;
+    color: rgb(107, 106, 106);
+    position: absolute;
+    top: 61%;
+    left: 28%;
+}
+.p23{
+    width: 95%;
+    height: 4vh;
+    color: #14B789;
+    font-size: 150%;
+    padding-left: 4.7%;
+    padding-top: 2%;
+    background-color: rgba(255, 255, 255, 0.517);
+    margin-top: 0.5%;
+}
+.p24{
+    font-size: 140%;
+    color: rgb(107, 106, 106);
+    position: absolute;
+    top: 80%;
+    left: 28%;
+}
+/* new div */
+.d8{
+width: 100%;
+height: 40vh;
+position: relative;
+}
+
+.p25{
+    font-weight: bold;
+    font-size: 250%;
+    position: absolute;
+    left: 35%;
+    top: 15%;
+    color: black;
+}
+.im5{
+    width: 6%;
+    height: 6vh;
+    position: absolute;
+    left: 15%;
+    top: 40%;
+    transition: .3s;
+    
+}
+.im5:hover{
+    transform: scale(1.3);
+    
+}
+.im6{
+    width: 6%;
+    height: 6vh;
+    position: absolute;
+    left: 30%;
+    top: 45%;
+    transition: .3s;
+}
+.im6:hover{
+    transform: scale(1.3);
+}
+.im7{
+    width: 7%;
+    height: 7vh;
+    position: absolute;
+    left: 42%;
+    top: 39%;
+    transition: .3s;
+}
+.im7:hover{
+    transform: scale(1.3);
+}
+.im8{
+    width: 10%;
+    height: 10vh;
+    position: absolute;
+    left: 54%;
+    top: 49%;
+    transition: .3s;
+}
+.im8:hover{
+    transform: scale(1.3);
+}
+.im9{
+    width: 9%;
+    height: 9vh;
+    position: absolute;
+    left: 66%;
+    top: 45%;
+    transition: .3s;
+}
+.im9:hover{
+    transform: scale(1.3);
+}
+
+
+/* new div */
+.d9{
+
+    width: 98%;
+    height: 150vh;
+    background-color: rgba(128, 128, 128, 0.06);
+    border: solid 2px rgba(128, 128, 128, 0.06);
+    margin-top: 0%;
+    position: relative;
+}
+.d10{
+background-color: #14B789;
+border-radius: 20px;
+width: 65%;
+position: absolute;
+left: 18%;
+top: 7%;
+}
+
+.im10{
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    padding:10px 30px ;
+    margin-left: 35%;
+}
+.h4{
+    font-weight: bold;
+    font-size: 320%;
+    color: white;
+    width: 20%;
+    position: absolute;
+    left: 56%;
+    top: 6%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.d11{
+    width: 30%;
+    height: 40vh;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+
+    position:relative;
+    
+    top: 22%;
+    left: 18%;
+    transition: .3s;
+    
+}
+.d11:hover{
+
+border-color:#14B789;
+box-shadow: 0 1rem 3rem rgba(0,0,0,.175);
+
+}
+
+.p26{
+    font-size: 220%;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    left: 5%;
+    top: .5%;
+
+
+
+}
+
+.hr3{
+    width: 90%;
+    position: absolute;
+    opacity: 0.2;
+    left: 5%;
+    top: 20%;
+
+
+
+}
+.p27{
+    font-size: 130%;
+    position: absolute;
+    left: 5%;
+    top: 24%;
+
+}
+.p28{
+    font-size: 130%;
+    position: absolute;
+    left: 5.5%;
+    top: 31.5%;
+
+}
+.b3{
+    border: 2px solid rgba(154, 154, 154, 0.669);
+    width: 35%;
+    height: 5vh;
+    border-radius: 50px;
+    background-color: white;
+    font-size: 125%;
+    color: rgb(114, 114, 114);
+    position: absolute;
+    top: 55%;
+    left: 5%;
+    transition: .3s;
+}
+.b3:hover{
+    background-color: #14B789;
+    color: rgb(255, 255, 255);
+}
+.d12{
+    width: 30%;
+    height: 40vh;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+
+    position:relative;
+    
+    bottom: 7%;
+    left: 51%;
+    transition: .3s;
+
+
+
+}
+.d12:hover{
+    border-color:#14B789;
+box-shadow: 0 1rem 3rem rgba(0,0,0,.175);
+
+}
+.d13{
+    width: 30%;
+    height: 40vh;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+
+    position:relative;
+    
+    bottom: 5.5%;
+    left: 51%;
+    transition: .3s;
+
+}
+.d13:hover{
+    border-color:#14B789;
+box-shadow: 0 1rem 3rem rgba(0,0,0,.175);
+
+}
+.d14{
+    width: 30%;
+    height: 40vh;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+
+    position:relative;
+    
+    top: -30%;
+    
+    left: 18%;
+    transition: .3s;
+    
+}
+.d14:hover{
+    border-color:#14B789;
+box-shadow: 0 1rem 3rem rgba(0,0,0,.175);
+
+}
+.d15{
+position: relative;
+width: 100%;
+height:95vh;
+}
+.d16{
+    background-color: #14B789;
+border-radius: 20px;
+width: 50%;
+position: absolute;
+left: 24%;
+top: 7%;
+}
+.h5{
+    font-weight: bold;
+    font-size: 320%;
+    color: white;
+    width: 20%;
+    position: absolute;
+    left: 59.5%;
+    top: 6%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.d17{
+    position: relative;
+    left: 5%;
+    top: 350px;
+    width: 30%;
+    height: 50vh;
+    background-color: rgba(191, 191, 191, 0.091);
+    border-radius: 20px;
+    overflow: hidden;
+    border: 3px solid white;
+    transition: .3s;
+}
+.im15{
+    width:73%;
+    height: 30vh;
+    position: absolute;
+    left: 15%;
+    top: 34%;
+   transform: rotate(10deg) translateY(80px);
+   transition: .4s;
+   border-radius: 15px;
+}
+.d17:hover{
+    border-color: #14B789;
+    transform: rotate(0deg)
+}
+.im15:hover{
+    transform: rotate(0deg)
+}
+
+     
+   
+
+.p29{
+    color: #14B789;
+    position: absolute;
+    left: 10%;
+    top: 3%;
+}
+.p30{
+    font-weight: bold;
+    font-size: 280%;
+    position: absolute;
+    left:10% ;
+    top: 6%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.d18{
+    position: relative;
+    left: 37%;
+    top: -260px;
+    width: 30%;
+    height: 50vh;
+    background-color: rgba(191, 191, 191, 0.091);
+    border-radius: 20px;
+    overflow: hidden;
+    border: 3px solid white;
+    transition: .3s;
+}
+.d18:hover{
+    border-color: #14B789;
+}
+.d19{
+    position: relative;
+    left: 69%;
+    top: -871px;
+    width: 30%;
+    height: 50vh;
+    background-color: rgba(191, 191, 191, 0.091);
+    border-radius: 20px;
+    overflow: hidden;
+    border: 3px solid white;
+    transition: .3s;
+}
+.d19:hover{
+    border-color: #14B789;
+}
+.d20{
+    background-color: rgba(128, 128, 128, 0.063);
+    width: 102%;
+    height: 80vh;
+    position: relative;
+}
+.h6{
+    font-weight: bold;
+    font-size: 320%;
+    color: white;
+    width: 20%;
+    position: absolute;
+    left: 63%;
+    top: 6%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.d21{
+    background-color: #14B789;
+border-radius: 20px;
+width: 40%;
+position: absolute;
+left: 24%;
+top: 7%;
+}
+.im16{
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    padding:10px 20px ;
+    margin-left: 35%;
+}
+.in1{
+    width:30%;
+    height: 4vh;
+    border: 3px solid rgba(128, 128, 128, 0.268);
+    position: absolute;
+    left: 5%;
+    top: 6%;
+    font-size: 115%;
+    padding-left: 8px;
+    transition: .3s;
+    outline: none;
+
+}
+.in1:hover{
+    border-color: #14B789;
+}
+.in2{
+    width:30%;
+    height: 4vh;
+    border: 3px solid rgba(128, 128, 128, 0.268);
+    position: absolute;
+    left: 5%;
+    top: 15%;
+    font-size: 115%;
+    padding-left: 8px;
+    transition: .3s;
+    outline: none;
+
+}
+.in2:hover{
+    border-color: #14B789;
+}
+.in3{
+    width:40%;
+    height: 9vh;
+    border: 3px solid rgba(128, 128, 128, 0.268);
+    position: absolute;
+    left: 5%;
+    top: 24%;
+    font-size: 115%;
+    padding-left: 8px;
+    transition: .3s;
+    outline: none;
+
+    
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.in3:hover{
+    border-color: #14B789;
+    border-radius: 0% #14B789;
+}
+.in4{
+    width: 8%;
+    height: 5vh;
+    border-radius: 60px;
+    background-color: #14B789;
+    color: white;
+    position: absolute;
+    left: 5%;
+    top: 40%;
+    border-color:#14B789;
+    border: 0%;
+
+    transition: .4s;
+    font-size: 150%;
+    outline: none;
+
+
+}
+.in4:hover{
+    border-color:#535da1;
+    background-color: #535da1;
+
+}
+.in5{
+    width: 8%;
+    height: 5vh;
+    border-radius: 60px;
+    background-color: #14B789;
+    color: white;
+    position: absolute;
+    left: 37%;
+    top: 40%;
+    border-color:#14B789;
+    border: 0%;
+
+    transition: .4s;
+    font-size: 150%;
+    outline: none;
+
+
+}
+.in5:hover{
+    border-color:#535da1;
+    background-color:#535da1;
+    box-shadow: red 250px unset;
+}
+.d22{
+    background-color: rgb(213, 213, 213);
+    width: 100%;
+    height: 80vh;
+    position: absolute;
+    left: 0%;
+    box-shadow: inset;
+}
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+           
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    /* div{
+        background-color: rgb(194, 194, 194);
+        width: 80%;
+        height: 70vh;
+        border-radius: 10px;
+        position: relative;
+        overflow: hidden;
+        border: 4px solid;
+        border-color: rgb(255, 255, 255);
+        transition: .3s;
+    }
+    .img{
+        width: 30%;
+        height: 30vh;
+        position: absolute;
+        left: 0.5%;
+        top: 55%;
+       transform: rotate(10deg) translateY(80px);
+       transition: .4s;
+       border-radius: 15px;
+       
+       
+       
+    
+    }
+    
+    
+    
+    .yo:hover img{
+        
+        transform: rotate(0deg);
+    }
+    .yo:hover{
+        border-color: green;
+    } */
+    /* مشروع */
+    
+    /* .yosef{
+        background :line-griden(to right , rgba(245, 4, 120, 0.615), rgba(0, 0, 255, 0.564) );
+        width: 100%;
+        height: 100vh;
+        
+        
+    }
+    body{
+        background-image: url(imge.me/img.jpg);
+        opacity:1;
+    }
+    .yosef1{
+        background:linear-gradient(to right , rgba(245, 4, 120, 0.615), rgba(0, 0, 255, 0.564) );
+        height: 8vh;
+    }
+    .p1{
+        font-size: 200%;
+        width: 10%;
+        position: absolute;
+        top: 0.2%;
+        color: white;
+        font-weight: bold;
+        left: 2%;
+    
+    }
+    .b1{
+        border-radius: 4px;
+        width: 5%;
+        height: 4vh;
+        position: absolute;
+        left: 20%;
+        top: 3.1%;
+        background-color: rgba(240, 248, 255, 0);
+        border-color: rgba(0, 0, 0, 0.653);
+        transition: .4;
+        color: white;
+        font-weight: bold;
+        font-size: 120%;
+    
+    }
+    .b2{
+        border-radius: 4px;
+        width: 8%;
+        height: 4vh;
+        position: absolute;
+        left: 26%;
+        top: 3.1%;
+        background-color: rgba(240, 248, 255, 0);
+        border-color: rgb(0, 0, 0);
+        transition: .4;
+        color: white;
+        font-weight: bold;
+        font-size: 120%;
+        
+    
+    }
+    .b3{
+        border-radius: 4px;
+        width: 5%;
+        height: 4vh;
+        position: absolute;
+        left: 35%;
+        top: 3.1%;
+        background-color: rgba(240, 248, 255, 0);
+        border-color: rgb(0, 0, 0);
+        transition: .4;
+        color: white;
+        font-weight: bold;
+        font-size: 120%;
+    
+    }
+    .b4{
+        border-radius: 4px;
+        width: 5%;
+        height: 4vh;
+        position: absolute;
+        left: 41%;
+        top: 3.1%;
+        background-color: rgba(240, 248, 255, 0);
+        border-color: rgb(0, 0, 0);
+        transition: .4;
+        color: white;
+        font-weight: bold;
+        font-size: 120%;
+    
+    }
+    .b5{
+        border-radius: 4px;
+        width: 6%;
+        height: 4vh;
+        position: absolute;
+        left: 47.2%;
+        top: 3.1%;
+        background-color: rgba(240, 248, 255, 0);
+        border-color: rgb(0, 0, 0);
+        transition: .4;
+        color: white;
+        font-weight: bold;
+        font-size: 120%;
+    
+    }
+    .b1:hover{
+        background-color:blue;
+        border-color: rgba(0, 0, 0, 0);
+    }
+    .b2:hover{
+        background-color: blue;
+        border-color: rgba(240, 248, 255, 0);
+    }
+    .b3:hover{
+        background-color: blue;
+        border-color: rgba(240, 248, 255, 0);
+    }
+    .b4:hover{
+        background-color: blue;
+        border-color: rgba(240, 248, 255, 0);
+    }
+    .b5:hover{
+        background-color: blue;
+        border-color: rgba(240, 248, 255, 0);
+    }
+    .p2{
+        font-size: 140%;
+        color: white;
+        margin-left: 5%;
+        margin-top: 15%;
+        margin-bottom: 0%;
+    }
+    .p3{
+        font-size: 500%;
+        margin-left: 5%;
+        margin-top: 0%;
+        color: white;
+        font-weight: bold;
+        margin-bottom: 0%;
+        height: 18vh;
+        
+    }
+    .p4{
+        font-weight: bold;
+        color: white;
+        margin-left: 5%;
+        margin-top: 0%;
+        font-size: 150%;
+    }
+    
+    
+    
+    
+    مشروع  */
+    
+    /* 
+    body{
+        background-color:rgb(16, 166, 204);
+        height: 95vh;
+       }
+       .yosef{
+           background-color: rgb(1, 222, 238);
+           
+           padding: 10%;
+           padding-bottom: 55%;
+           
+           margin-left: 18%;
+           margin-right: 20%;
+           margin-top: 2%;
+           margin-bottom: 0%;
+           border-radius: 7%;
+           position: relative;
+           width: 50%;
+           
+           
+       
+       
+       }
+       .yosef1{
+           background-color: rgb(196, 248, 255);
+          position: absolute;
+          left: 4%;
+          right: 46%;
+          top: 7%;
+          bottom: 4%;
+          border-radius: 10px;
+           
+       }
+       .p{
+           font-size: 300%;
+           font-weight: bold;
+           margin-left: 8%;
+       }
+       .in{
+           
+           border-radius: 20px;
+           margin-left: 1%;
+           font-size: 130%;
+           padding-left: 2%;
+           border-color: rgb(195, 195, 195);
+           color:rgb(195, 195, 195) ;
+           padding-right: 10%;
+           padding-bottom: 1%;
+           padding-top: 1%;
+           margin-left: 8%;
+       
+       
+           
+       }
+       .in1{
+           border-radius: 20px;
+           margin-left: 1%;
+           font-size: 130%;
+           padding-left: 2%;
+           border-color: rgb(195, 195, 195);
+           color:rgb(195, 195, 195) ;
+           padding-right: 0%;
+           padding-bottom: 1%;
+           padding-top: 1%;
+           margin-left: 8%;
+           margin-top: 4%;
+           width: 54%;
+       }
+       .la{
+           position: absolute;
+           top: 32%;
+           right: 75%;
+           font-size: 120%;
+       
+       }
+       .in2{
+       position: absolute;
+       top: 32%;
+       right: 95%;
+       
+       
+       }
+       .p1{
+           font-size: 110%;
+           position: absolute;
+           top: 35%;
+           left: 5%;
+           color: rgba(32, 32, 224, 0.89);
+       }
+       .in3{
+           width: 54%;
+           margin-top: 30%;
+           border-radius: 13px;
+           margin-left: 19%;
+           font-size: 130%;
+           color: aliceblue;
+           background-color: rgb(49, 126, 189);
+           padding-top: 1%;
+           padding-bottom: 1%;
+           transition: .4s;
+           border-color: rgb(196, 248, 255);;
+       }
+       .in3:hover{
+           
+           background-color:rgb(209, 213, 218) ;
+           
+       }
+       .in4{
+           width: 54%;
+           margin-top: 5%;
+           border-radius: 13px;
+           margin-left: 19%;
+           font-size: 130%;
+           color: palevioletred;
+           background-color: aliceblue;
+           padding-top: 1%;
+           padding-bottom: 1%;
+           transition: .4s;
+           border-color: rgb(196, 248, 255);
+       }
+       .p2{
+           font-weight: bold;
+           position: absolute;
+           left: 45%;
+           top: 64%;
+       }
+       
+       
+       .in5{
+           width: 54%;
+           margin-top: 25%;
+           border-radius: 13px;
+           margin-left: 19%;
+           font-size: 130%;
+           color: rgb(0, 9, 0);
+           background-color: rgb(196, 248, 255);
+           padding-top: 1%;
+           padding-bottom: 1%;
+           transition: .4s;
+           border-color: rgb(36, 11, 227);}
+       .in6{
+           width: 54%;
+           margin-top: 5%;
+           border-radius: 13px;
+           margin-left: 19%;
+           font-size: 130%;
+           color: rgb(0, 9, 0);
+           background-color: rgb(196, 248, 255);
+           padding-top: 1%;
+           padding-bottom: 1%;
+           transition: .4s;
+           border-color: rgb(36, 11, 227);
+           
+       }
+       .img{
+           width: 5%;
+           position: absolute;
+           left: 21%;
+           bottom: 16%;
+       
+       }
+       .img1{
+        width: 5%;
+           position: absolute;
+           left: 21%;
+           bottom: 23.5%;
+           border-radius: 13px;
+       }
+            */
+    
+    
